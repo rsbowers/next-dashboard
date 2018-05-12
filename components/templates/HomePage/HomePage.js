@@ -12,7 +12,7 @@ class HomePage extends PureComponent {
 
   render() {
     return (
-      <Layout title="Next DFS">
+      <Layout title="Next Dashboard">
         {this.renderComponent()}
       </Layout>
     )

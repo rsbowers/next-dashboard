@@ -15,7 +15,7 @@ class MyHeader extends PureComponent {
             </button>
           </div>
           <div>
-            <span className="Header-link">Dashboard</span>
+            <span className="Header-link">Next Dashboard</span>
           </div>
           <div>
             <Icon logo viewBox="0 0 163 140" width="40px" height="35px" fill="#999" />
